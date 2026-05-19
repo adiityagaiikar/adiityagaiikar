@@ -132,11 +132,11 @@ open_to: Internships · Collaborations · Open-Source
 
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Gaikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiityagaiikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Gaikar&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiityagaiikar&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Gaikar&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=adiityagaiikar&theme=tokyonight&hide_border=true)
 
 </div>
 
